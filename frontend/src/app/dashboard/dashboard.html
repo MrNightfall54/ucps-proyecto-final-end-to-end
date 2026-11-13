@@ -1,0 +1,44 @@
+<section class="dashboard">
+  <header class="encabezado">
+    <h1>Dashboard de ventas</h1>
+    <p>Resumen de los ingresos y la distribución de unidades vendidas por departamento.</p>
+  </header>
+  @if (cargando()) { <p>Consultando indicadores de la API...</p> }
+  @if (error()) { <p class="rojo">{{ error() }}</p> }
+  <div class="indicadores">
+    <mat-card class="indicador"><mat-card-content>
+        <div class="etiqueta">Ingresos totales</div>
+        <div class="numero">{{ totalIngresos() | currency:'PEN':'symbol':'1.2-2' }}</div>
+      </mat-card-content></mat-card>
+    <mat-card class="indicador"><mat-card-content>
+        <div class="etiqueta">IGV total</div>
+        <div class="numero">{{ totalIgv() | currency:'PEN':'symbol':'1.2-2' }}</div>
+      </mat-card-content></mat-card>
+    <mat-card class="indicador"><mat-card-content>
+        <div class="etiqueta">Unidades vendidas</div>
+        <div class="numero">{{ totalUnidades() | number }}</div>
+      </mat-card-content></mat-card>
+    <mat-card class="indicador"><mat-card-content>
+        <div class="etiqueta">Categorías</div>
+        <div class="numero">{{ totalCategorias() }}</div>
+      </mat-card-content></mat-card>
+  </div>
+  <div class="graficos">
+    <mat-card class="tarjeta-grafico">
+      <mat-card-header><mat-card-title>Ingresos por categoría</mat-card-title><mat-card-subtitle>Comparativa de monto
+          total e IGV calculado</mat-card-subtitle></mat-card-header>
+      <mat-card-content>
+        <div class="lienzo"><canvas #graficoBarras aria-label="Gráfico de barras de monto total e IGV por categoría"
+            role="img"></canvas></div>
+      </mat-card-content>
+    </mat-card>
+    <mat-card class="tarjeta-grafico">
+      <mat-card-header><mat-card-title>Unidades vendidas</mat-card-title><mat-card-subtitle>Participación por categoría
+          de la tienda</mat-card-subtitle></mat-card-header>
+      <mat-card-content>
+        <div class="lienzo"><canvas #graficoDona aria-label="Gráfico de dona de unidades vendidas por categoría"
+            role="img"></canvas></div>
+      </mat-card-content>
+    </mat-card>
+  </div>
+</section>

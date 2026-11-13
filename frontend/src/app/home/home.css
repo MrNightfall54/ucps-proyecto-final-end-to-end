@@ -1,0 +1,26 @@
+.contenedor-principal {
+    max-width: 1250px;
+    margin: 30px auto;
+    padding: 0 18px;
+}
+
+mat-card {
+    padding: 20px;
+}
+
+mat-card-content {
+    margin-top: 24px;
+}
+
+.selector-categoria {
+    width: 100%;
+    max-width: 400px;
+}
+
+.contador {
+    margin: 0 0 18px;
+    color: #475569;
+}
+.filtros { display:flex; align-items:center; gap:12px; flex-wrap:wrap; }
+.filtros button { margin-bottom:20px; }
+.error { color:#b91c1c; }

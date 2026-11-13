@@ -1,0 +1,23 @@
+<div class="contenedor-principal">
+  <mat-card>
+    <mat-card-header>
+      <mat-card-title>Registro de Ventas por Departamentos</mat-card-title>
+    </mat-card-header>
+    <mat-card-content>
+      <div class="filtros">
+        <mat-form-field appearance="outline" class="selector-categoria">
+          <mat-label>Buscar por ticket, producto o categoría</mat-label>
+          <input matInput [(ngModel)]="textoBusqueda" (keyup.enter)="buscarVentas()" maxlength="100" />
+        </mat-form-field>
+        <button mat-raised-button color="primary" (click)="buscarVentas()">Buscar</button>
+      </div>
+      <p class="contador">Ventas encontradas: <strong>{{ total() }}</strong></p>
+      @if (cargando()) { <p>Consultando ventas...</p> }
+      @if (error()) { <p class="error">{{ error() }}</p> }
+      <app-tabla-ventas [lista]="ventasEnPantalla()"></app-tabla-ventas>
+      <mat-paginator [length]="total()" [pageIndex]="pagina() - 1" [pageSize]="limite()"
+        [pageSizeOptions]="[10, 20, 50, 100]" (page)="cambiarPagina($event)"
+        aria-label="Paginación de ventas"></mat-paginator>
+    </mat-card-content>
+  </mat-card>
+</div>

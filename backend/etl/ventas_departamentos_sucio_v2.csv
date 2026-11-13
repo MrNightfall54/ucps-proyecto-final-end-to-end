@@ -1,0 +1,506 @@
+id_transaccion,categoria,producto,cantidad,precio_unitario,fecha_venta,stock_actual
+TRX-0174,  calzado , ZAPATILLAS DEPORTIVAS  ,1,256.12,2026-04-15,91
+TRX-0275,Calzado,Botines,5,208.52,2026-06-15,48
+TRX-0491,Electro,Licuadora,2,1020.88,2026-10-24,50
+TRX-0073,Tecnología,Laptop Core i5,3,S/ 1826.7,2026-02-13,97
+TRX-0306,Tecnología,Smartphone,2,S/ 2096.98,2026-07-04,78
+TRX-0077,Electro,"Televisor 50""",3,978.15,2026-02-15,28
+TRX-0477,Electro,Microondas,1,1006.55,2026-10-16,94
+TRX-0141,Ropa,Vestido Casual,4,129.2,2026-03-26,83
+TRX-0471,Tecnología,Smartphone,3,2457.29,2026-10-12,23
+TRX-0500,Ropa,Jeans Slim,5,96.81,2026-10-30,86
+TRX-0219,Tecnología,Audífonos Bluetooth,5,1941.35,2026-05-12,77
+TRX-0010,Hogar,Cortina,0,153.7,2026-01-06,78
+TRX-0481,Hogar,Juego de Sábanas,5,134.86,2026-10-18,8
+TRX-0079,Tecnología,Smartphone,2,2222.91,2026-02-17,81
+TRX-0323,Calzado,Zapatos de Cuero,5,235.36,2026-07-14,11
+TRX-0313,Hogar,Cortina,4,145.15,2026-07-08,97
+TRX-0125,Hogar,Set de Ollas,4,163.71,2026-03-17,11
+TRX-0385,Tecnología,Laptop Core i5,5,1786.41,2026-08-21,65
+TRX-0196,Ropa,Chaqueta,3,128.66,2026-04-29,99
+TRX-0448,  tecnología ," TABLET 10""  ",4,2391.14,2026-09-28,71
+TRX-0272,Calzado,Sandalias,2,265.97,2026-06-14,41
+TRX-0279,Calzado,Zapatos de Cuero,4,295.53,2026-06-18,35
+TRX-0031,Tecnología,Audífonos Bluetooth,5,2427.55,2026-01-19,14
+TRX-0001,Electro,"Televisor 50""",5,1327.65,2026-01-01,35
+TRX-0421,Hogar,Juego de Sábanas,1,127.51,2026-09-12,36
+TRX-0445,Tecnología,"Tablet 10""",1,2603.03,2026-09-26,65
+TRX-0080,Electro,Microondas,1,1344.48,2026-02-17,62
+TRX-0319,Calzado,Zapatos de Cuero,1,294.55,2026-07-12,45
+TRX-0211,Tecnología,Smartphone,4,2048.14,2026-05-08,93
+TRX-0497,Hogar,Set de Ollas,1,,2026-10-28,80
+TRX-0173,Calzado,Zapatillas Deportivas,2,208.84,2026-04-15,54
+TRX-0454,Hogar,Juego de Sábanas,2,169.41,2026-10-02,30
+TRX-0375,  hogar , ALMOHADA VISCOELÁSTICA  ,3,170.88,2026-08-15,6
+TRX-0359,Tecnología,Laptop Core i5,4,2068.02,2026-08-05,70
+TRX-0495,Calzado,Sandalias,4,202.66,2026-10-26,78
+TRX-0154,Calzado,Zapatos de Cuero,5,223.11,2026-04-03,62
+TRX-0003,Hogar,Juego de Sábanas,2,139.34,2026-01-02,43
+TRX-0336,Hogar,Cortina,1,148.74,2026-07-22,11
+TRX-0209,Electro,Refrigeradora,2,1181.49,2026-05-06,74
+TRX-0074,Electro,Microondas,1,994.68,2026-02-14,58
+TRX-0496,,Microondas,2,,2026-10-27,98
+TRX-0452,Tecnología,Laptop Core i5,2,2610.15,2026-09-30,68
+TRX-0205,Electro,Microondas,4,1217.6,2026-05-04,89
+TRX-0069,Hogar,Cortina,4,128.1,2026-02-11,37
+TRX-0091,Calzado,Botines,3,212.97,2026-02-24,41
+TRX-0300,Ropa,Camisa Formal,5,120.34,2026-06-30,15
+TRX-0034,Calzado,Zapatos de Cuero,4,249.75,2026-01-20,51
+TRX-0071,Ropa,Camisa Formal,3,135.73,2026-02-12,90
+TRX-0470,Calzado,Zapatillas Deportivas,4,243.82,2026-10-11,14
+TRX-0001,Electro,"Televisor 50""",5,1327.65,2026-01-01,35
+TRX-0012,Calzado,Botines,2,,2026-01-07,41
+TRX-0282,Electro,"Televisor 50""",1,1049.79,2026-06-20,38
+TRX-0023,Electro,Microondas,1,1379.94,2026-01-14,40
+TRX-0102,Tecnología,"Tablet 10""",4,2091.68,2026-03-03,85
+TRX-0269,Tecnología,Smartphone,1,2257.47,2026-06-12,15
+TRX-0485,Hogar,Almohada Viscoelástica,5,147.08,2026-10-20,32
+TRX-0442,Hogar,Juego de Sábanas,2,135.08,2026-09-24,20
+TRX-0291,Ropa,Chaqueta,4,132.31,FECHA_INVALIDA,-15
+TRX-0085,Ropa,Chaqueta,1,141.18,2026-02-20,48
+TRX-0246,Ropa,Jeans Slim,5,127.28,2026-05-29,59
+TRX-0064,Calzado,Zapatillas Deportivas,5,226.58,2026-02-08,58
+TRX-0056,Hogar,Set de Ollas,2,167.88,2026-02-03,40
+TRX-0230,Hogar,Cortina,1,122.96,2026-05-19,35
+TRX-0019,Calzado,Zapatos de Cuero,3,249.94,2026-01-11,81
+TRX-0411,Tecnología,Audífonos Bluetooth,1,2254.76,2026-09-06,6
+TRX-0210,Ropa,Jeans Slim,1,113.16,2026-05-07,62
+TRX-0395,Tecnología,Audífonos Bluetooth,5,2578.54,2026-08-27,29
+TRX-0083,Electro,Refrigeradora,1,1256.67,2026-02-19,48
+TRX-0040,Calzado,Zapatos de Cuero,2,202.27,2026-01-24,50
+TRX-0456,Tecnología,"Tablet 10""",1,2546.85,2026-10-03,62
+TRX-0047,Hogar,Cortina,-1,170.5,2026-01-28,63
+TRX-0413,Ropa,Jeans Slim,1,106.65,2026-09-07,8
+TRX-0315,Tecnología,Smartphone,5,2309.85,2026-07-10,85
+TRX-0355,Calzado,Zapatillas Deportivas,3,288.26,2026-08-03,12
+TRX-0078,Ropa,Jeans Slim,2,109.95,2026-02-16,86
+TRX-0398,Hogar,Cortina,1,137.99,2026-08-29,37
+TRX-0105,Tecnología,Smartphone,4,2634.0,2026-03-04,93
+TRX-0204,Tecnología,Laptop Core i5,1,1862.16,2026-05-03,32
+TRX-0381,  ropa , CHAQUETA  ,2,112.69,2026-08-18,66
+TRX-0489,Tecnología,Laptop Core i5,1,2325.22,2026-10-23,30
+TRX-0070,Tecnología,"Tablet 10""",2,2055.4,2026-02-11,80
+TRX-0408,Tecnología,Audífonos Bluetooth,1,1767.25,2026-09-04,31
+TRX-0256,Hogar,Cortina,4,167.36,2026-06-04,6
+TRX-0392,Tecnología,Audífonos Bluetooth,3,2104.69,FECHA_INVALIDA,-15
+TRX-0312,  hogar , ALMOHADA VISCOELÁSTICA  ,2,120.55,2026-07-08,92
+TRX-0235,Electro,"Televisor 50""",1,1169.1,2026-05-22,51
+TRX-0474,Calzado,Zapatillas Deportivas,1,294.76,2026-10-14,92
+TRX-0324,Electro,Licuadora,2,1114.81,2026-07-15,53
+TRX-0094,Tecnología,Audífonos Bluetooth,2,1922.99,2026-02-26,97
+TRX-0138,Hogar,Juego de Sábanas,1,151.0,2026-03-24,85
+TRX-0177,Calzado,Zapatos de Cuero,1,296.91,2026-04-17,47
+TRX-0337,,Laptop Core i5,4,,2026-07-23,22
+TRX-0132,Electro,Licuadora,5,1166.48,2026-03-21,6
+TRX-0003,Hogar,Juego de Sábanas,2,139.34,2026-01-02,43
+TRX-0365,Tecnología,"Tablet 10""",5,2223.89,2026/99/99,-15
+TRX-0133,Tecnología,Audífonos Bluetooth,-1,2044.62,2026-03-21,14
+TRX-0332,Ropa,Camisa Formal,4,121.75,2026-07-20,82
+TRX-0412,Ropa,Camisa Formal,1,105.38,2026-09-06,18
+TRX-0004,  calzado , ZAPATOS DE CUERO  ,4,216.96,2026-01-02,59
+TRX-0350,Hogar,Almohada Viscoelástica,1,142.94,2026-07-31,76
+TRX-0087,Tecnología,Audífonos Bluetooth,5,1867.17,2026-02-22,49
+TRX-0076,Ropa,Jeans Slim,-1,124.43,2026-02-15,26
+TRX-0443,Hogar,Set de Ollas,2,168.22,2026-09-25,16
+TRX-0016,Ropa,Jeans Slim,2,122.14,2026-01-10,74
+TRX-0326,Tecnología,Audífonos Bluetooth,4,1771.37,2026-07-16,79
+TRX-0389,Electro,Microondas,3,1322.11,2026-08-23,67
+TRX-0020,Ropa,Camisa Formal,-3,106.94,2026-01-12,22
+TRX-0325,Calzado,Zapatos de Cuero,2,290.69,2026-07-16,13
+TRX-0335,Calzado,Botines,5,256.11,2026-07-22,26
+TRX-0057,Calzado,Sandalias,5,260.63,2026-02-03,83
+TRX-0339,Ropa,Chaqueta,3,109.76,2026-07-24,52
+TRX-0409,Hogar,Juego de Sábanas,2,177.27,2026-09-04,75
+TRX-0334,Calzado,Zapatos de Cuero,1,228.03,2026-07-21,92
+TRX-0182,Hogar,Cortina,5,148.03,2026-04-20,47
+TRX-0228,Electro,Microondas,1,1130.31,2026-05-18,58
+TRX-0427,Ropa,Chaqueta,3,S/ 121.57,2026-09-15,84
+TRX-0181,Ropa,Jeans Slim,5,143.86,2026-04-19,62
+TRX-0026,Electro,"Televisor 50""",1,1365.03,2026-01-16,20
+TRX-0330,Tecnología,Smartphone,4,2172.41,2026-07-19,16
+TRX-0239,Ropa,Chaqueta,5,114.25,2026-05-25,98
+TRX-0245,Ropa,Camisa Formal,1,136.08,2026-05-28,32
+TRX-0251,Electro,Microondas,3,1189.06,2026-06-01,97
+TRX-0418,Hogar,Cortina,1,134.63,2026-09-10,23
+TRX-0118,Tecnología,"Tablet 10""",1,1960.12,2026-03-12,43
+TRX-0043,Calzado,Botines,2,290.75,2026-01-26,60
+TRX-0322,Tecnología,Audífonos Bluetooth,5,2540.86,2026-07-14,84
+TRX-0347,  hogar , SET DE OLLAS  ,4,171.47,2026-07-29,91
+TRX-0183,Hogar,Almohada Viscoelástica,4,150.19,2026-04-21,32
+TRX-0156,Ropa,Vestido Casual,5,113.8,2026-04-04,10
+TRX-0281,Hogar,Almohada Viscoelástica,5,120.67,2026-06-19,83
+TRX-0127,  ropa , JEANS SLIM  ,1,101.6,2026-03-18,77
+TRX-0449,  calzado , SANDALIAS  ,1,298.52,2026-09-29,39
+TRX-0032,Hogar,Set de Ollas,3,168.52,FECHA_INVALIDA,-15
+TRX-0114,Electro,Licuadora,2,S/ 1225.13,2026-03-10,16
+TRX-0149,Hogar,Set de Ollas,4,144.86,2026-03-31,64
+TRX-0430,Ropa,Vestido Casual,3,S/ 110.84,2026-09-17,68
+TRX-0401,Hogar,Cortina,4,134.74,2026-08-31,39
+TRX-0058,Tecnología,Smartphone,2,2530.32,2026-02-04,59
+TRX-0195,Calzado,Zapatillas Deportivas,5,232.24,2026-04-28,5
+TRX-0025,Calzado,Sandalias,4,239.75,2026-01-15,19
+TRX-0018,Electro,Refrigeradora,5,1314.79,2026-01-11,43
+TRX-0298,Hogar,Almohada Viscoelástica,3,158.82,2026-06-29,29
+TRX-0067,Calzado,Zapatos de Cuero,2,232.92,2026-02-09,76
+TRX-0212,,Botines,5,,2026-05-08,20
+TRX-0404,Electro,"Televisor 50""",2,1422.25,2026-09-01,27
+TRX-0095,Tecnología,Smartphone,3,2328.83,2026-02-26,76
+TRX-0155,Ropa,Vestido Casual,3,139.55,2026-04-04,14
+TRX-0441,Calzado,Botines,2,229.71,2026-09-24,41
+TRX-0024,Tecnología,Audífonos Bluetooth,5,2127.4,2026-01-14,89
+TRX-0226,Calzado,Sandalias,4,205.06,2026-05-17,15
+TRX-0433,Tecnología,Audífonos Bluetooth,3,2599.72,2026-09-19,23
+TRX-0447,Calzado,Zapatos de Cuero,1,S/ 207.26,2026-09-27,22
+TRX-0006,Electro,Microondas,2,1028.41,2026-01-04,71
+TRX-0117,Electro,Microondas,3,1412.07,2026-03-12,83
+TRX-0046,Calzado,Zapatillas Deportivas,3,232.51,2026-01-28,57
+TRX-0017,Hogar,Set de Ollas,1,177.92,2026-01-10,10
+TRX-0468,Hogar,Set de Ollas,1,171.92,2026-10-10,58
+TRX-0362,Tecnología,Audífonos Bluetooth,2,2365.01,2026-08-07,15
+TRX-0004,  calzado , ZAPATOS DE CUERO  ,4,216.96,2026-01-02,59
+TRX-0295,Hogar,Almohada Viscoelástica,1,171.11,2026-06-27,94
+TRX-0186,Hogar,Set de Ollas,5,154.71,2026-04-22,40
+TRX-0061,Tecnología,"Tablet 10""",1,1984.74,2026-02-06,99
+TRX-0111,Hogar,Cortina,5,123.17,2026-03-08,6
+TRX-0321,Electro,"Televisor 50""",5,973.66,2026-07-13,23
+TRX-0266,Tecnología,Laptop Core i5,1,2409.92,2026-06-10,27
+TRX-0030,Ropa,Camisa Formal,1,117.69,2026-01-18,13
+TRX-0263,Tecnología,Smartphone,3,1839.41,2026-06-08,24
+TRX-0478,Tecnología,Smartphone,0,2598.76,2026-10-16,77
+TRX-0027,Calzado,Botines,2,269.91,2026-01-16,38
+TRX-0008,Hogar,Set de Ollas,1,S/ 147.32,2026-01-05,90
+TRX-0458,Hogar,Set de Ollas,4,123.78,2026-10-04,22
+TRX-0109,Electro,"Televisor 50""",5,1403.78,2026-03-07,84
+TRX-0038,Ropa,Chaqueta,4,132.93,2026-01-23,30
+TRX-0158,Tecnología,"Tablet 10""",5,2453.4,2026-04-06,20
+TRX-0472,Calzado,Botines,5,238.62,2026-10-13,9
+TRX-0119,Tecnología,"Tablet 10""",3,2174.63,2026-03-13,65
+TRX-0115,Hogar,Cortina,5,166.95,2026-03-10,57
+TRX-0176,Electro,Licuadora,4,1407.06,2026-04-16,25
+TRX-0193,Calzado,Zapatillas Deportivas,1,289.89,2026-04-27,26
+TRX-0273,Hogar,Almohada Viscoelástica,2,140.08,2026-06-14,5
+TRX-0145,Hogar,Juego de Sábanas,4,148.78,2026-03-29,17
+TRX-0490,Hogar,Set de Ollas,5,147.27,2026-10-23,36
+TRX-0383,Tecnología,Smartphone,5,S/ 2287.63,2026-08-20,76
+TRX-0356,Tecnología,Smartphone,0,1991.12,2026-08-03,99
+TRX-0278,Hogar,Set de Ollas,5,126.29,2026-06-17,51
+TRX-0221,Tecnología,Laptop Core i5,5,2585.02,2026-05-14,42
+TRX-0450,Hogar,Almohada Viscoelástica,2,128.03,2026-09-29,97
+TRX-0142,Hogar,Juego de Sábanas,2,132.44,2026-03-27,88
+TRX-0369,Tecnología,Audífonos Bluetooth,4,S/ 2354.63,2026-08-11,35
+TRX-0068,Tecnología,Smartphone,1,2623.44,2026-02-10,45
+TRX-0361,Electro,"Televisor 50""",3,1176.6,2026-08-06,44
+TRX-0169,Calzado,Zapatillas Deportivas,5,255.05,2026-04-12,91
+TRX-0499,Tecnología,Laptop Core i5,2,2198.92,2026-10-29,55
+TRX-0379,Ropa,Jeans Slim,4,134.86,2026-08-17,36
+TRX-0366,Calzado,Zapatillas Deportivas,1,265.75,2026-08-09,29
+TRX-0194,Tecnología,Smartphone,2,1775.76,2026-04-27,45
+TRX-0250,Hogar,Almohada Viscoelástica,2,151.74,2026-05-31,68
+TRX-0110,Tecnología,"Tablet 10""",1,1906.82,2026-03-07,86
+TRX-0434,Hogar,Juego de Sábanas,3,142.07,2026-09-20,31
+TRX-0146,Ropa,Jeans Slim,3,142.5,2026-03-29,7
+TRX-0093,Tecnología,Smartphone,3,2588.8,2026-02-25,16
+TRX-0153,Calzado,Sandalias,2,S/ 297.73,2026-04-02,59
+TRX-0223,Calzado,Botines,3,261.32,FECHA_INVALIDA,-15
+TRX-0410,Electro,Licuadora,5,1410.47,2026-09-05,87
+TRX-0084,Tecnología,"Tablet 10""",0,2634.41,2026-02-20,5
+TRX-0249,Electro,Microondas,2,1072.05,2026-05-31,37
+TRX-0166,Ropa,Camisa Formal,5,101.51,2026-04-10,23
+TRX-0164,Electro,"Televisor 50""",1,1260.58,2026-04-09,93
+TRX-0200,Calzado,Sandalias,4,271.55,2026-05-01,98
+TRX-0232,Calzado,Sandalias,5,267.13,2026-05-20,44
+TRX-0075,Tecnología,Smartphone,4,2471.14,2026-02-14,21
+TRX-0311,Calzado,Botines,4,248.51,2026-07-07,20
+TRX-0455,Hogar,Juego de Sábanas,5,166.7,2026-10-02,83
+TRX-0254,Hogar,Cortina,5,155.27,2026-06-03,12
+TRX-0120,Calzado,Sandalias,1,258.1,2026-03-14,12
+TRX-0285,Hogar,Cortina,2,144.64,2026-06-21,38
+TRX-0302,Tecnología,Laptop Core i5,3,2543.98,2026-07-02,90
+TRX-0483,Calzado,Zapatillas Deportivas,2,236.09,2026-10-19,34
+TRX-0357,Tecnología,Audífonos Bluetooth,-3,2139.6,2026-08-04,39
+TRX-0403,Calzado,Zapatillas Deportivas,2,251.08,2026-09-01,42
+TRX-0229,Ropa,Vestido Casual,2,135.4,2026-05-18,35
+TRX-0262,Calzado,Sandalias,3,290.55,2026-06-07,36
+TRX-0238,Ropa,Vestido Casual,2,126.76,2026-05-24,17
+TRX-0438,Calzado,Botines,4,226.46,2026-09-22,17
+TRX-0476,Hogar,Set de Ollas,3,168.91,2026-10-15,89
+TRX-0037,Calzado,Zapatillas Deportivas,5,276.32,2026-01-22,38
+TRX-0197,Electro,"Televisor 50""",4,S/ 1135.43,2026-04-29,63
+TRX-0140,Hogar,Juego de Sábanas,2,172.11,2026-03-26,88
+TRX-0368,Electro,"Televisor 50""",5,1026.78,2026-08-11,19
+TRX-0248,Calzado,Zapatillas Deportivas,2,203.44,2026-05-30,70
+TRX-0288,Calzado,Zapatos de Cuero,4,270.69,2026-06-23,46
+TRX-0378,Calzado,Zapatillas Deportivas,4,299.63,2026-08-17,54
+TRX-0060,Tecnología,Smartphone,2,2341.93,2026-02-05,55
+TRX-0112,Calzado,Botines,3,280.33,2026-03-09,28
+TRX-0090,Tecnología,Audífonos Bluetooth,3,2449.83,2026-02-23,50
+TRX-0267,Calzado,Zapatillas Deportivas,3,255.19,2026-06-10,15
+TRX-0007,Hogar,Juego de Sábanas,3,135.47,2026-01-04,22
+TRX-0457,  calzado , ZAPATOS DE CUERO  ,2,252.83,2026-10-03,78
+TRX-0348,Tecnología,"Tablet 10""",-3,2401.1,2026-07-30,52
+TRX-0341,Electro,"Televisor 50""",2,1381.57,2026-07-25,38
+TRX-0159,Calzado,Botines,1,296.61,2026-04-06,34
+TRX-0151,Tecnología,Audífonos Bluetooth,1,2393.47,2026-04-01,88
+TRX-0178,Calzado,Zapatillas Deportivas,2,269.82,2026-04-18,49
+TRX-0397,Hogar,Set de Ollas,5,139.65,2026-08-28,52
+TRX-0185,Hogar,Cortina,3,159.07,2026-04-22,67
+TRX-0318,Tecnología,"Tablet 10""",5,2568.62,2026-07-11,45
+TRX-0011,Electro,Microondas,2,1113.92,2026-01-07,62
+TRX-0384,Electro,Licuadora,0,1125.32,2026-08-20,72
+TRX-0104,Hogar,Set de Ollas,2,163.31,2026-03-04,48
+TRX-0082,Hogar,Juego de Sábanas,1,157.56,2026-02-19,83
+TRX-0039,  calzado , ZAPATILLAS DEPORTIVAS  ,3,290.0,2026-01-23,12
+TRX-0317,Tecnología,Audífonos Bluetooth,3,2144.14,2026-07-11,14
+TRX-0168,Hogar,Almohada Viscoelástica,1,167.3,2026-04-12,20
+TRX-0475,Ropa,Camisa Formal,1,103.72,2026-10-14,37
+TRX-0299,Electro,Refrigeradora,5,1403.1,2026-06-30,70
+TRX-0405,Electro,Refrigeradora,2,1336.88,2026-09-02,33
+TRX-0199,Tecnología,"Tablet 10""",5,2378.3,2026-04-30,21
+TRX-0377,Hogar,Cortina,2,145.22,2026-08-16,30
+TRX-0147,Tecnología,"Tablet 10""",3,2133.7,2026-03-30,92
+TRX-0396,Electro,"Televisor 50""",5,1288.69,2026-08-28,63
+TRX-0148,Calzado,Botines,4,210.95,2026-03-30,10
+TRX-0484,Calzado,Botines,5,230.75,2026-10-20,76
+TRX-0290,Tecnología,Audífonos Bluetooth,5,2246.77,2026-06-24,60
+TRX-0124,Calzado,Botines,2,235.18,2026-03-16,27
+TRX-0372,Tecnología,Laptop Core i5,4,2010.57,2026-08-13,53
+TRX-0097,Electro,"Televisor 50""",2,1191.9,2026-02-28,40
+TRX-0144,Calzado,Sandalias,3,253.48,2026/99/99,-15
+TRX-0240,Tecnología,Smartphone,5,2602.8,2026-05-25,72
+TRX-0276,Tecnología,Smartphone,2,1832.92,2026-06-16,17
+TRX-0098,Hogar,Almohada Viscoelástica,1,132.71,2026-02-28,22
+TRX-0353,Ropa,Jeans Slim,2,116.81,2026-08-02,43
+TRX-0123,Electro,Refrigeradora,3,1056.5,2026-03-15,46
+TRX-0184,Electro,Licuadora,2,1162.95,2026-04-21,88
+TRX-0203,Tecnología,Audífonos Bluetooth,3,1975.73,2026-05-03,50
+TRX-0247,Hogar,Cortina,4,164.57,2026-05-29,68
+TRX-0308,Ropa,Chaqueta,4,119.09,2026-07-05,91
+TRX-0423,Electro,Refrigeradora,5,992.98,FECHA_INVALIDA,-15
+TRX-0354,Electro,Microondas,4,974.89,2026-08-02,8
+TRX-0303,Calzado,Sandalias,5,263.97,2026-07-02,93
+TRX-0399,Ropa,Vestido Casual,2,117.81,2026-08-29,85
+TRX-0287,Tecnología,Audífonos Bluetooth,2,2349.1,2026-06-23,79
+TRX-0126,Calzado,Botines,4,270.29,2026-03-17,52
+TRX-0305,Tecnología,"Tablet 10""",3,2242.96,2026-07-03,21
+TRX-0224,Hogar,Almohada Viscoelástica,5,134.75,2026-05-15,72
+TRX-0422,Electro,"Televisor 50""",1,1125.96,2026-09-12,43
+TRX-0220,Tecnología,Audífonos Bluetooth,4,1964.17,2026-05-13,65
+TRX-0130,Ropa,Camisa Formal,3,120.17,2026-03-20,56
+TRX-0424,Calzado,Zapatillas Deportivas,1,258.77,2026-09-14,84
+TRX-0292,Tecnología,"Tablet 10""",4,2013.12,2026-06-26,66
+TRX-0493,Calzado,Botines,5,254.33,2026-10-25,42
+TRX-0394,Hogar,Cortina,2,139.92,2026-08-26,80
+TRX-0480,Tecnología,Smartphone,5,1818.53,2026-10-17,88
+TRX-0358,Electro,Microondas,1,1260.16,2026-08-05,22
+TRX-0297,Ropa,Jeans Slim,5,122.62,2026-06-29,87
+TRX-0370,Hogar,Juego de Sábanas,-3,172.89,2026-08-12,33
+TRX-0343,Electro,Refrigeradora,4,1086.15,2026-07-26,54
+TRX-0113,Tecnología,Laptop Core i5,3,2192.71,2026-03-09,64
+TRX-0180,Electro,Microondas,4,1362.79,2026-04-19,8
+TRX-0419,Ropa,Vestido Casual,2,136.27,2026-09-10,72
+TRX-0342,Calzado,Zapatos de Cuero,5,202.16,2026-07-26,31
+TRX-0333,Electro,Refrigeradora,1,1053.12,2026-07-20,11
+TRX-0487,Calzado,Sandalias,1,,2026-10-22,83
+TRX-0363,Ropa,Jeans Slim,5,135.67,2026-08-08,56
+TRX-0234,Ropa,Jeans Slim,1,98.56,2026-05-22,71
+TRX-0473,Tecnología,Smartphone,5,2101.01,2026-10-13,33
+TRX-0165,Electro,Refrigeradora,5,1308.29,2026-04-10,16
+TRX-0137,Hogar,Cortina,3,153.84,2026-03-24,32
+TRX-0198,Electro,Refrigeradora,3,1025.93,2026-04-30,62
+TRX-0259,Hogar,Set de Ollas,1,121.33,2026-06-06,69
+TRX-0233,Calzado,Zapatos de Cuero,1,287.23,2026-05-21,23
+TRX-0116,Calzado,Zapatillas Deportivas,3,212.97,2026-03-11,91
+TRX-0121,Calzado,Zapatos de Cuero,3,250.67,2026-03-14,52
+TRX-0352,Electro,Microondas,4,1217.24,2026-08-01,51
+TRX-0225,Calzado,Zapatillas Deportivas,4,236.41,2026-05-16,39
+TRX-0406,Hogar,Cortina,3,134.22,2026-09-03,78
+TRX-0437,Ropa,Vestido Casual,3,128.29,2026-09-21,96
+TRX-0128,Electro,Refrigeradora,5,S/ 1048.68,2026-03-18,26
+TRX-0286,Hogar,Set de Ollas,3,153.66,2026-06-22,27
+TRX-0415,Hogar,Juego de Sábanas,1,167.07,2026-09-08,49
+TRX-0108,Tecnología,Smartphone,4,,2026-03-06,13
+TRX-0374,Ropa,Jeans Slim,1,118.18,2026-08-14,79
+TRX-0371,Hogar,Almohada Viscoelástica,1,136.89,2026-08-12,17
+TRX-0134,Calzado,Zapatos de Cuero,1,232.02,2026-03-22,43
+TRX-0400,Tecnología,Laptop Core i5,2,2586.14,2026-08-30,36
+TRX-0045,Hogar,Almohada Viscoelástica,4,170.48,2026-01-27,64
+TRX-0466,Electro,Refrigeradora,4,972.6,2026-10-09,6
+TRX-0066,Calzado,Sandalias,2,234.11,2026-02-09,8
+TRX-0284,Tecnología,"Tablet 10""",1,2326.35,2026-06-21,89
+TRX-0086,Tecnología,Smartphone,2,2234.42,2026-02-21,79
+TRX-0243,Ropa,Vestido Casual,3,111.5,2026-05-27,8
+TRX-0187,Hogar,Cortina,2,175.16,2026-04-23,10
+TRX-0387,Electro,"Televisor 50""",5,1162.26,2026-08-22,57
+TRX-0160,Ropa,Camisa Formal,4,102.02,2026-04-07,43
+TRX-0013,Tecnología,Audífonos Bluetooth,1,S/ 2402.48,2026-01-08,48
+TRX-0036,Hogar,Cortina,2,150.84,2026-01-22,98
+TRX-0029,Electro,Licuadora,1,1068.14,2026-01-17,97
+TRX-0171,Calzado,Zapatos de Cuero,4,292.53,2026-04-13,5
+TRX-0143,Tecnología,Laptop Core i5,3,2196.07,2026-03-27,29
+TRX-0417,Electro,Refrigeradora,5,1402.61,2026-09-09,96
+TRX-0425,,Audífonos Bluetooth,1,,2026-09-14,62
+TRX-0222,Electro,Refrigeradora,5,1269.08,2026-05-14,84
+TRX-0096,Electro,Microondas,-1,1091.02,2026-02-27,19
+TRX-0052,Calzado,Zapatillas Deportivas,5,280.62,2026-01-31,9
+TRX-0241,Tecnología,"Tablet 10""",-1,2547.48,2026-05-26,44
+TRX-0376,Tecnología,Audífonos Bluetooth,1,2638.43,2026-08-15,53
+TRX-0382,Calzado,Botines,2,207.56,2026-08-19,80
+TRX-0179,Ropa,Jeans Slim,2,142.43,2026-04-18,41
+TRX-0042,Ropa,Vestido Casual,2,96.26,2026-01-25,79
+TRX-0440,Tecnología,"Tablet 10""",5,S/ 2048.49,2026-09-23,41
+TRX-0391,Calzado,Zapatillas Deportivas,1,289.87,2026-08-25,22
+TRX-0207,Electro,Microondas,1,1158.79,2026-05-05,91
+TRX-0283,Tecnología,Smartphone,1,2281.12,2026-06-20,34
+TRX-0255,Hogar,Set de Ollas,5,175.67,2026-06-03,86
+TRX-0416,Calzado,Sandalias,5,248.81,2026-09-09,39
+TRX-0005,Calzado,Sandalias,5,255.49,2026-01-03,98
+TRX-0257,Tecnología,Audífonos Bluetooth,1,2109.29,2026-06-04,41
+TRX-0453,Tecnología,Laptop Core i5,5,2359.05,2026-10-01,61
+TRX-0101,Hogar,Set de Ollas,1,147.48,2026-03-02,66
+TRX-0227,Tecnología,"Tablet 10""",1,2031.32,2026-05-17,89
+TRX-0432,Hogar,Set de Ollas,4,157.25,2026-09-18,50
+TRX-0214,Electro,Refrigeradora,5,1316.8,2026-05-09,73
+TRX-0426,Calzado,Botines,4,240.44,2026-09-15,73
+TRX-0172,Calzado,Botines,5,203.59,2026-04-14,59
+TRX-0099,Electro,Microondas,3,1403.92,2026-03-01,80
+TRX-0293,  tecnología , AUDÍFONOS BLUETOOTH  ,5,2503.15,2026-06-26,56
+TRX-0216,Calzado,Botines,4,248.58,2026-05-11,78
+TRX-0062,Calzado,Zapatos de Cuero,4,277.24,2026-02-06,5
+TRX-0048,Tecnología,Laptop Core i5,3,2591.13,2026-01-29,67
+TRX-0033,Electro,"Televisor 50""",4,1289.94,2026-01-20,91
+TRX-0268,Calzado,Sandalias,4,236.69,2026-06-11,80
+TRX-0328,Calzado,Sandalias,2,273.53,2026-07-17,90
+TRX-0201,Hogar,Cortina,4,168.4,2026-05-02,82
+TRX-0451,Ropa,Chaqueta,4,138.28,2026-09-30,31
+TRX-0028,Calzado,Sandalias,1,205.77,2026-01-17,72
+TRX-0393,Electro,Microondas,2,S/ 1077.95,2026-08-26,69
+TRX-0231,Hogar,Juego de Sábanas,1,142.14,2026-05-20,23
+TRX-0261,Hogar,Cortina,2,175.12,2026-06-07,74
+TRX-0289,Hogar,Set de Ollas,2,178.2,2026-06-24,34
+TRX-0163,Electro,Refrigeradora,4,1260.39,2026-04-09,62
+TRX-0429,Electro,Microondas,4,1400.19,2026-09-17,23
+TRX-0139,Hogar,Set de Ollas,2,140.21,2026-03-25,80
+TRX-0063,Calzado,Botines,5,256.71,2026-02-07,49
+TRX-0136,Calzado,Zapatillas Deportivas,4,218.5,2026-03-23,43
+TRX-0129,Electro,"Televisor 50""",3,1278.74,2026-03-19,48
+TRX-0482,Calzado,Botines,1,218.79,2026-10-19,32
+TRX-0009,,Zapatillas Deportivas,4,,2026-01-05,43
+TRX-0327,Electro,Refrigeradora,5,1373.57,2026-07-17,17
+TRX-0469,Ropa,Vestido Casual,5,120.76,2026-10-11,55
+TRX-0065,Calzado,Zapatillas Deportivas,1,S/ 298.39,2026-02-08,58
+TRX-0301,Electro,Licuadora,1,968.93,2026-07-01,79
+TRX-0015,Calzado,Zapatillas Deportivas,2,251.52,2026-01-09,57
+TRX-0157,Electro,Microondas,4,970.69,2026-04-05,59
+TRX-0041,Electro,Refrigeradora,2,1255.51,2026-01-25,74
+TRX-0380,Hogar,Set de Ollas,5,152.8,2026-08-18,68
+TRX-0465,Hogar,Set de Ollas,4,,2026-10-08,16
+TRX-0407,Calzado,Sandalias,1,213.18,2026-09-03,9
+TRX-0217,Tecnología,Laptop Core i5,2,1817.84,2026-05-11,47
+TRX-0280,Ropa,Chaqueta,3,97.89,2026-06-18,6
+TRX-0439,Tecnología,Smartphone,1,2575.35,2026-09-23,13
+TRX-0435,Hogar,Juego de Sábanas,0,176.11,2026-09-20,55
+TRX-0338,Ropa,Vestido Casual,3,97.47,2026-07-23,40
+TRX-0237,Electro,Refrigeradora,2,1428.89,2026-05-23,75
+TRX-0208,  tecnología , AUDÍFONOS BLUETOOTH  ,1,1960.0,2026-05-06,17
+TRX-0213,Calzado,Botines,3,234.14,2026-05-09,37
+TRX-0296,Electro,Licuadora,5,1079.47,2026-06-28,55
+TRX-0462,Electro,"Televisor 50""",1,1345.99,2026-10-07,87
+TRX-0252,Tecnología,Laptop Core i5,5,2211.26,2026-06-01,50
+TRX-0494,Ropa,Chaqueta,1,97.45,2026-10-26,55
+TRX-0463,Ropa,Chaqueta,5,109.43,2026-10-07,92
+TRX-0304,Ropa,Chaqueta,4,105.7,2026-07-03,13
+TRX-0351,Calzado,Zapatos de Cuero,2,288.79,2026-07-31,5
+TRX-0270,Calzado,Botines,4,205.91,2026-06-12,28
+TRX-0202,,Refrigeradora,2,,2026-05-02,25
+TRX-0162,Hogar,Set de Ollas,2,162.16,2026-04-08,8
+TRX-0044,Electro,Refrigeradora,5,1153.58,2026-01-27,37
+TRX-0218,Electro,"Televisor 50""",5,1364.03,2026-05-12,80
+TRX-0402,Calzado,Sandalias,5,299.33,2026-08-31,17
+TRX-0191,,Smartphone,2,,2026-04-25,18
+TRX-0310,Electro,Microondas,5,1078.01,2026-07-07,53
+TRX-0260,Tecnología,Laptop Core i5,5,2384.75,2026-06-06,39
+TRX-0106,Tecnología,"Tablet 10""",4,2243.05,2026-03-05,58
+TRX-0054,Ropa,Vestido Casual,1,124.29,2026-02-02,14
+TRX-0390,Tecnología,Smartphone,5,2562.95,2026-08-24,46
+TRX-0002,Electro,Microondas,3,1330.02,2026-01-01,52
+TRX-0492,Hogar,Set de Ollas,1,172.28,2026-10-25,82
+TRX-0488,Calzado,Zapatillas Deportivas,2,214.83,2026-10-22,59
+TRX-0050,Ropa,Camisa Formal,5,112.9,2026-01-30,5
+TRX-0420,Calzado,Zapatos de Cuero,4,S/ 246.62,2026-09-11,70
+TRX-0081,Tecnología,Audífonos Bluetooth,-1,2550.32,2026-02-18,5
+TRX-0206,Tecnología,Audífonos Bluetooth,4,2114.22,2026-05-05,18
+TRX-0035,Hogar,Almohada Viscoelástica,4,132.58,2026-01-21,43
+TRX-0431,  calzado , ZAPATOS DE CUERO  ,5,258.43,2026-09-18,52
+TRX-0264,Hogar,Cortina,4,120.12,2026-06-09,12
+TRX-0428,Electro,Microondas,5,1236.35,2026-09-16,46
+TRX-0367,Calzado,Botines,3,248.57,2026-08-10,9
+TRX-0092,Electro,"Televisor 50""",4,1297.72,2026-02-25,77
+TRX-0340,Electro,Refrigeradora,1,1179.47,2026-07-25,63
+TRX-0479,Calzado,Sandalias,-3,217.71,2026-10-17,12
+TRX-0053,Hogar,Cortina,0,160.06,2026-02-01,99
+TRX-0346,Hogar,Almohada Viscoelástica,5,164.28,2026-07-28,25
+TRX-0265,Electro,Refrigeradora,4,1417.66,2026-06-09,46
+TRX-0242,Ropa,Vestido Casual,4,129.13,2026-05-26,6
+TRX-0014,Electro,Licuadora,1,1099.95,2026-01-08,64
+TRX-0316,  electro ," TELEVISOR 50""  ",3,1315.38,2026-07-10,63
+TRX-0089,Ropa,Chaqueta,2,124.3,2026-02-23,49
+TRX-0388,Hogar,Cortina,3,143.99,2026-08-23,79
+TRX-0274,Tecnología,Laptop Core i5,5,1770.44,2026-06-15,40
+TRX-0167,Calzado,Sandalias,4,292.95,2026-04-11,47
+TRX-0329,Calzado,Zapatos de Cuero,4,222.7,2026-07-18,95
+TRX-0498,Ropa,Vestido Casual,5,137.06,2026-10-28,48
+TRX-0135,Electro,Licuadora,5,1327.77,2026-03-23,82
+TRX-0307,Ropa,Vestido Casual,4,98.33,2026-07-05,82
+TRX-0486,Ropa,Jeans Slim,4,112.16,2026-10-21,25
+TRX-0320,  ropa , VESTIDO CASUAL  ,1,117.92,2026-07-13,59
+TRX-0244,Tecnología,Audífonos Bluetooth,4,2500.01,2026-05-28,7
+TRX-0055,Electro,Licuadora,2,1280.54,2026-02-02,68
+TRX-0364,Hogar,Set de Ollas,1,130.97,2026-08-08,65
+TRX-0051,Electro,Microondas,5,1098.15,2026-01-31,24
+TRX-0461,Calzado,Zapatos de Cuero,1,250.24,2026-10-06,46
+TRX-0175,Tecnología,Smartphone,4,1763.92,2026-04-16,71
+TRX-0446,  ropa , CAMISA FORMAL  ,2,122.05,2026-09-27,92
+TRX-0190,Tecnología,Audífonos Bluetooth,3,2274.4,2026-04-25,62
+TRX-0002,Electro,Microondas,3,1330.02,2026-01-01,52
+TRX-0464,Electro,Licuadora,2,1203.75,2026-10-08,93
+TRX-0188,Electro,Licuadora,4,1128.48,2026-04-24,51
+TRX-0170,Calzado,Sandalias,3,288.78,2026-04-13,71
+TRX-0059,Calzado,Sandalias,1,291.82,2026-02-05,64
+TRX-0049,Tecnología,Laptop Core i5,-1,2053.54,2026-01-30,31
+TRX-0345,Hogar,Juego de Sábanas,3,141.31,2026-07-28,83
+TRX-0236,Ropa,Chaqueta,4,103.64,2026-05-23,23
+TRX-0253,Tecnología,Laptop Core i5,4,2072.14,2026-06-02,85
+TRX-0022,Hogar,Juego de Sábanas,2,146.31,2026-01-13,99
+TRX-0314,Hogar,Set de Ollas,1,141.68,2026-07-09,33
+TRX-0460,Ropa,Jeans Slim,2,128.73,2026-10-05,5
+TRX-0161,Calzado,Botines,3,212.9,2026-04-07,91
+TRX-0277,Electro,Licuadora,3,1047.26,2026-06-17,12
+TRX-0444,Hogar,Cortina,3,124.56,2026-09-26,51
+TRX-0192,Hogar,Set de Ollas,3,159.48,2026-04-26,63
+TRX-0386,Electro,Licuadora,1,1211.85,2026-08-22,68
+TRX-0294,Tecnología,Laptop Core i5,-1,2599.19,2026-06-27,96
+TRX-0414,Calzado,Zapatillas Deportivas,4,214.18,2026-09-07,55
+TRX-0344,Electro,Licuadora,4,1274.38,2026-07-27,25
+TRX-0258,Calzado,Zapatillas Deportivas,5,260.4,2026-06-05,23
+TRX-0309,Calzado,Zapatillas Deportivas,5,249.63,2026-07-06,78
+TRX-0150,Hogar,Cortina,5,153.33,2026-04-01,91
+TRX-0131,Hogar,Juego de Sábanas,1,161.05,2026-03-20,45
+TRX-0152,Electro,"Televisor 50""",4,S/ 1368.4,2026-04-02,64
+TRX-0360,Calzado,Zapatos de Cuero,2,285.07,2026-08-06,51
+TRX-0100,Tecnología,Smartphone,5,1891.05,2026-03-01,44
+TRX-0373,Tecnología,Audífonos Bluetooth,4,2180.49,2026-08-14,60
+TRX-0088,  electro , MICROONDAS  ,3,1376.66,2026-02-22,20
+TRX-0459,Electro,Refrigeradora,5,1071.26,2026-10-05,40
+TRX-0331,Ropa,Camisa Formal,-3,100.25,2026-07-19,34
+TRX-0215,Calzado,Zapatos de Cuero,5,233.77,2026-05-10,63
+TRX-0467,Ropa,Vestido Casual,4,110.72,2026/99/99,-15
+TRX-0122,Tecnología,"Tablet 10""",1,S/ 2397.57,2026-03-15,7
+TRX-0005,Calzado,Sandalias,5,255.49,2026-01-03,98
+TRX-0021,Ropa,Chaqueta,5,137.11,2026-01-13,37
+TRX-0189,Tecnología,"Tablet 10""",5,,2026-04-24,77
+TRX-0072,Calzado,Botines,1,247.65,2026-02-12,21
+TRX-0107,Electro,Licuadora,1,1432.17,2026-03-06,91
+TRX-0271,,Botines,4,,2026-06-13,90
+TRX-0349,Electro,"Televisor 50""",3,1224.02,2026-07-30,12
+TRX-0436,Hogar,Juego de Sábanas,1,150.69,2026-09-21,65
+TRX-0103,Electro,"Televisor 50""",2,1398.14,2026-03-03,16

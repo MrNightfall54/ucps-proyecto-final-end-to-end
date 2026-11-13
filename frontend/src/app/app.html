@@ -1,0 +1,8 @@
+<mat-toolbar color="primary" class="barra-superior">
+  <span class="marca">Ventas por Departamentos</span>
+  <nav aria-label="Navegación principal" class="enlaces">
+    <a mat-button routerLink="/" routerLinkActive="activo" [routerLinkActiveOptions]="{ exact: true }">Ventas</a>
+    <a mat-button routerLink="/dashboard" routerLinkActive="activo">Dashboard</a>
+  </nav>
+</mat-toolbar>
+<main class="contenido"><router-outlet></router-outlet></main>

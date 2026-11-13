@@ -1,0 +1,30 @@
+<div class="contenedor-detalle">
+  @if (cargando()) { <p>Consultando transacción...</p> }
+  @else if (ventaSeleccionada(); as venta) {
+  <mat-card class="tarjeta-detalle">
+    <mat-card-header><mat-card-title>Ficha de venta: {{ venta.id_transaccion }}</mat-card-title><mat-card-subtitle>{{
+        venta.categoria }}</mat-card-subtitle></mat-card-header>
+    <mat-divider></mat-divider>
+
+    <mat-card-content>
+      <p><strong>Ticket:</strong> {{ venta.id_transaccion }}</p>
+      <p><strong>Categoría:</strong> {{ venta.categoria }}</p>
+      <p><strong>Producto:</strong> {{ venta.producto }}</p>
+      <p><strong>Cantidad vendida:</strong> {{ venta.cantidad }}</p>
+      <p><strong>Precio unitario:</strong> {{ venta.precio_unitario | currency:'PEN':'symbol':'1.2-2' }}</p>
+      <p><strong>Fecha:</strong> {{ venta.fecha_venta | date:'dd/MM/yyyy':'UTC' }}</p>
+      <p><strong>Stock actual:</strong> {{ venta.stock_actual }}</p>
+      <p><strong>Monto total:</strong> {{ venta.monto_total | currency:'PEN':'symbol':'1.2-2' }}</p>
+      <p><strong>IGV calculado:</strong> {{ venta.igv | currency:'PEN':'symbol':'1.2-2' }}</p>
+    </mat-card-content>
+    
+    <mat-card-actions align="end"><button mat-stroked-button routerLink="/">← Volver a
+        ventas</button></mat-card-actions>
+  </mat-card>
+  } @else {
+  <mat-card class="tarjeta-detalle"><mat-card-content>
+      <h2>Venta no encontrada</h2>
+      <p>{{ error() }}</p><button mat-raised-button routerLink="/">Volver a ventas</button>
+    </mat-card-content></mat-card>
+  }
+</div>

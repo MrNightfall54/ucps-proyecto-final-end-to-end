@@ -1,0 +1,5 @@
+.tabla-contenedor { width:100%; overflow-x:auto; }
+table { width:100%; min-width:1120px; }
+.mat-mdc-header-cell { font-weight:700; }
+.mat-mdc-cell,.mat-mdc-header-cell { padding:10px 12px; }
+.sin-resultados { padding:24px 10px; text-align:center; color:#64748b; }
