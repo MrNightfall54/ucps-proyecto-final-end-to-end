@@ -3,11 +3,11 @@ from decimal import Decimal
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 from sqlalchemy import text
-from backend.database import engine
+from database import engine
 
 
 app = FastAPI(
-    title="API - fase 2",
+    title="API",
     description="backend",
     version="1.0"
 )
@@ -37,7 +37,7 @@ def convertir_registro(fila):
 
 
 # inicio
-@app.get("/api")
+@app.get("/")
 def inicio():
     return {
         "mensaje": "API de Ventas por Departamentos",

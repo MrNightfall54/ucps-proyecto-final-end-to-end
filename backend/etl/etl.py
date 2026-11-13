@@ -144,7 +144,7 @@ def transformar_datos(df):
 
 def cargar_mysql(df):
 
-    print("MariaDb")
+    print("Enviando datos ...")
 
     load_dotenv(BASE_DIR / ".env")
 

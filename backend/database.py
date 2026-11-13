@@ -6,9 +6,7 @@ from dotenv import load_dotenv
 from sqlalchemy import create_engine
 from sqlalchemy.engine import URL
 
-BASE_DIR = Path(__file__).resolve().parent.parent
-
-load_dotenv(BASE_DIR / ".env")
+load_dotenv(".env")
 
 DATABASE_URL = URL.create(
     drivername="mysql+pymysql",
